@@ -3,6 +3,10 @@ Script para obtener ciclicamente todas las claves privadas y direcciones de la r
 
 <h2>Instalación y Ejecución en Termux</h2>
 
+
+
+New session
+
 ```bash
 
 yes | pkg update && yes | pkg upgrade
@@ -49,6 +53,10 @@ New session
 mysql -u root
 
 ```
+
+
+
+New session
 
 ```bash
 
