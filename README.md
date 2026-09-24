@@ -9,15 +9,21 @@ New session
 
 ```bash
 
-yes | pkg update && yes | pkg upgrade
+yes | pkg update && yes | pkg upgrade && yes | pkg install git
 
 ```
 
 
+New session
+
+```bash
+git clone https://github.com/criptogamer/script-crypto-cracking-global-erc20.git
+
+```
 
 ```bash
 
-mkdir proyecto_cracking && cd proyecto_cracking
+cd script-crypto-cracking-global-erc20
 
 ```
 
